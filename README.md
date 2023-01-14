@@ -1,6 +1,6 @@
 
 <div class="estilo" align="center" style="display:block;">
-<a href="https://colab.research.google.com/github/Jinder2050/ComportamientoPrecioCuDiario/blob/main/AnalisisDatosDiarioPrecioCu.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/drive/1Fo4036-KGIJ9459DVjAdY4jPJNy2Qt05?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 </div>
 <br>
 
