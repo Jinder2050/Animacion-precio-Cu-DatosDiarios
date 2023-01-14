@@ -8,7 +8,7 @@
 
 Limpieza de datos para realizar la animacion del comportamiento del precio del cobre desde el ***01/01/2000*** hasta ***31/12/2022***
 
-##Source
+## Source
 
 [CuPrice](https://es.investing.com/commodities/copper)
 
@@ -20,7 +20,7 @@ Limpieza de datos para realizar la animacion del comportamiento del precio del c
 
 ![animation](assets/animation.gif)
 
-Vea la animacion completa ![Aquí](https://www.linkedin.com/in/yiender-condori-galdos-6a536020b/)
+Vea la animacion completa [Aquí](https://www.linkedin.com/in/yiender-condori-galdos-6a536020b/)
 
 ## 🔗 Social
 <div class="estilo" align="center" style="display:block;">
