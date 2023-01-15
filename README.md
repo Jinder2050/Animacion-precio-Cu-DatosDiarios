@@ -22,6 +22,8 @@ Limpieza de datos para realizar la animacion del comportamiento del precio del c
 
 Vea la animacion completa [Aquí](https://www.linkedin.com/in/yiender-condori-galdos-6a536020b/)
 
+***Agradecemos cualquier retroalimentación o sugerencias.***
+
 ## 🔗 Social
 <div class="estilo" align="center" style="display:block;">
         <a href="https://github.com/Jinder2050" target="_blank" style="padding: 0.2rem;"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a>
