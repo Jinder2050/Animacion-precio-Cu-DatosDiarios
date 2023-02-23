@@ -22,7 +22,6 @@ Limpieza de datos para realizar la animacion del comportamiento del precio del c
 
 Vea la animacion completa [Aquí](https://www.linkedin.com/posts/yiender-condori-galdos-6a536020b_python-datavisualization-cobre-activity-7020208124884045824-vJbM?utm_source=share&utm_medium=member_desktop)
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7020207955845251072" height="810" width="504" frameborder="0" allowfullscreen="" title="Publicación integrada"></iframe>
 
 ***Agradecemos cualquier retroalimentación o sugerencias.***
 
